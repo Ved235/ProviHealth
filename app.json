@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "provihealth",
+    "slug": "snack-3d2d0fed-4dc9-409d-b3e4-8f0f11f8f5da",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.vedant235.snack3d2d0fed4dc9409db3e48f0f11f8f5da"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
